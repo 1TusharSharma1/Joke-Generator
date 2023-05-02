@@ -1,0 +1,11 @@
+*{
+    background-color: aqua;
+}
+
+.mainbody{
+    text-align: center;
+}
+#next{
+    font-weight: bolder;
+    background-color: rgb(175, 36, 218);
+}
